@@ -47,6 +47,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 4, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/katana-bannerman-2.png",
   "hitpoints": 155,
   "weapons": [

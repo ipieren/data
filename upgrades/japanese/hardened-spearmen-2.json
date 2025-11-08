@@ -47,6 +47,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 1, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/hardened-spearmen-2.png",
   "unlocks": ""
 }

@@ -47,6 +47,9 @@
   "producedBy": [
     "stable"
   ],
+  "display_order":[
+    {"stable": {"left" : 2, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/mounted-samurai-4.png",
   "hitpoints": 270,
   "weapons": [

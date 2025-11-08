@@ -35,6 +35,9 @@
   "producedBy": [
     "archery-range"
   ],
+  "display_order":[
+    {"archery-range": {"left" : 1, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-bogmadr-4.png",
   "unlocks": ""
 }

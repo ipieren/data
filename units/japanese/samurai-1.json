@@ -45,6 +45,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 2, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/samurai-1.png",
   "hitpoints": 100,
   "weapons": [

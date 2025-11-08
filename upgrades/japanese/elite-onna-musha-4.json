@@ -36,6 +36,9 @@
   "producedBy": [
     "archery-range"
   ],
+  "display_order":[
+    {"archery-range": {"left" : 2, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-onna-musha-4.png",
   "unlocks": ""
 }

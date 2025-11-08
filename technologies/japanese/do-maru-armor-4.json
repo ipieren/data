@@ -36,6 +36,9 @@
   "producedBy": [
     "stable"
   ],
+  "display_order":[
+    {"stable": {"left" : 2, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/technologies/do-maru-armor-4.png",
   "effects": [
     {

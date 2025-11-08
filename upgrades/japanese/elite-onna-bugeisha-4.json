@@ -36,6 +36,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 3, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-onna-bugeisha-4.png",
   "unlocks": ""
 }

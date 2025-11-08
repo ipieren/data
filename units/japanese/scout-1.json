@@ -46,6 +46,9 @@
     "stable",
     "town-center"
   ],
+  "display_order":[
+    {"stable": {"left" : 3, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/scout-1.png",
   "hitpoints": 110,
   "weapons": [

@@ -44,6 +44,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 1, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/spearman-4.png",
   "hitpoints": 130,
   "weapons": [

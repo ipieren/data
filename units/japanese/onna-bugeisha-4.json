@@ -43,6 +43,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 3, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-4.png",
   "hitpoints": 135,
   "weapons": [

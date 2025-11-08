@@ -36,6 +36,9 @@
   "producedBy": [
     "barracks"
   ],
+  "display_order":[
+    {"barracks": {"left" : 2, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/hardened-samurai-2.png",
   "unlocks": ""
 }

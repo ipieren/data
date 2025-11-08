@@ -43,6 +43,9 @@
   "producedBy": [
     "stable"
   ],
+  "display_order":[
+    {"stable": {"left" : 1, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/horseman-2.png",
   "hitpoints": 125,
   "weapons": [

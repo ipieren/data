@@ -35,6 +35,9 @@
   "producedBy": [
     "varangian-stronghold"
   ],
+  "display_order":[
+    {"varangian-stronghold": {"left" : 1, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-atgeirmadr-4.png",
   "unlocks": ""
 }
