@@ -48,6 +48,11 @@
     "varangian-stronghold",
     "varangian-warcamp"
   ],
+  "display_order":[
+    {"archery-range": {"left" : 1, "right" : 0}},
+    {"varangian-stronghold": {"left" : 3, "right" : 0}},
+    {"varangian-warcamp": {"left" : 3, "right" : 0}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/bogmadr-4.png",
   "hitpoints": 110,
   "weapons": [
