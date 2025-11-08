@@ -48,6 +48,10 @@
     "varangian-stronghold",
     "varangian-warcamp"
   ],
+  "display_order":[
+    {"varangian-stronghold": {"left" : 1, "right" : 0}},
+    {"varangian-warcamp": {"left" : 1, "right" : 1}}
+  ],
   "icon": "https://data.aoe4world.com/images/units/atgeirmadr-4.png",
   "hitpoints": 140,
   "weapons": [
