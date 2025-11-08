@@ -117,5 +117,19 @@
   },
   "movement": {
     "speed": 0.875
-  }
+  },
+  "display_order": [
+    {
+      "siege-workshop": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

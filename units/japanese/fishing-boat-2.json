@@ -39,6 +39,20 @@
   "producedBy": [
     "dock"
   ],
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/fishing-boat-2.png",
   "hitpoints": 100,
   "weapons": [],

@@ -41,6 +41,20 @@
   "producedBy": [
     "dock"
   ],
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 3,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/atakebune-4.png",
   "hitpoints": 650,
   "weapons": [

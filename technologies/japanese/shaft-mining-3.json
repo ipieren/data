@@ -37,5 +37,19 @@
     "kura-storehouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shaft-mining-3.png",
-  "effects": []
+  "effects": [],
+  "display_order": [
+    {
+      "kura-storehouse": {
+        "left_grid": {
+          "row": 3,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

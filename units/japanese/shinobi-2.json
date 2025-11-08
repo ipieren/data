@@ -117,5 +117,19 @@
   },
   "movement": {
     "speed": 1.375
-  }
+  },
+  "display_order": [
+    {
+      "koka-township": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

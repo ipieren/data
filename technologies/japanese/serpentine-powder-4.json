@@ -47,5 +47,19 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/serpentine-powder-4.png",
-  "effects": []
+  "effects": [],
+  "display_order": [
+    {
+      "university": {
+        "left_grid": {
+          "row": 2,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

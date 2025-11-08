@@ -82,5 +82,31 @@
       "value": 2,
       "type": "bonus"
     }
+  ],
+  "display_order": [
+    {
+      "farmhouse": {
+        "left_grid": {
+          "row": 4,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "kura-storehouse": {
+        "left_grid": {
+          "row": 1,
+          "column": 4
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

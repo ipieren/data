@@ -39,6 +39,20 @@
   "producedBy": [
     "siege-workshop"
   ],
+  "display_order": [
+    {
+      "siege-workshop": {
+        "left_grid": {
+          "row": 1,
+          "column": 4
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/battering-ram-3.png",
   "hitpoints": 370,
   "weapons": [

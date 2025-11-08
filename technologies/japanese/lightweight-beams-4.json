@@ -78,5 +78,19 @@
       "value": 0.5,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "siege-workshop": {
+        "left_grid": {
+          "row": 0,
+          "column": 0
+        },
+        "right_grid": {
+          "row": 2,
+          "column": 1
+        }
+      }
+    }
   ]
 }

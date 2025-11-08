@@ -58,5 +58,31 @@
       "value": 1.2,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "capital-town-center": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "town-center": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

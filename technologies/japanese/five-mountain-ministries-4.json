@@ -52,5 +52,31 @@
       "value": 0,
       "type": "ability"
     }
+  ],
+  "display_order": [
+    {
+      "buddhist-temple": {
+        "left_grid": {
+          "row": 2,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "temple-of-equality": {
+        "left_grid": {
+          "row": 2,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

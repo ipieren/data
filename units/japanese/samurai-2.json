@@ -46,7 +46,7 @@
     "barracks"
   ],
   "display_order":[
-    {"barracks": {"left" : 2, "right" : 0}}
+    {"barracks": {"left_grid" : {"row" : 1, "column" : 2}, "right_grid" : {"row" : 0, "column" : 0}}}
   ],
   "icon": "https://data.aoe4world.com/images/units/samurai-2.png",
   "hitpoints": 120,

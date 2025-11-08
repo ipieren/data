@@ -49,5 +49,19 @@
       "value": 2,
       "type": "ability"
     }
+  ],
+  "display_order": [
+    {
+      "shinto-shrine": {
+        "left_grid": {
+          "row": 2,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

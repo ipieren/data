@@ -40,6 +40,20 @@
   "producedBy": [
     "tanegashima-gunsmith"
   ],
+  "display_order": [
+    {
+      "tanegashima-gunsmith": {
+        "left_grid": {
+          "row": 1,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/ribauldequin-4.png",
   "hitpoints": 215,
   "weapons": [

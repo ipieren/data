@@ -67,5 +67,19 @@
       "value": 9.2,
       "type": "bonus"
     }
+  ],
+  "display_order": [
+    {
+      "barracks": {
+        "left_grid": {
+          "row": 3,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

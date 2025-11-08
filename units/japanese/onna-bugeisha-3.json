@@ -44,7 +44,7 @@
     "barracks"
   ],
   "display_order":[
-    {"barracks": {"left" : 3, "right" : 0}}
+    {"barracks": {"left_grid" : {"row" : 1, "column" : 3}, "right_grid" : {"row" : 0, "column" : 0}}}
   ],
   "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-3.png",
   "hitpoints": 100,

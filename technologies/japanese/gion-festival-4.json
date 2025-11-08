@@ -52,5 +52,19 @@
       "value": 2,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "shinto-shrine": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

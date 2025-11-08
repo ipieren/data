@@ -49,5 +49,19 @@
       "value": 10,
       "type": "ability"
     }
+  ],
+  "display_order": [
+    {
+      "archery-range": {
+        "left_grid": {
+          "row": 3,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

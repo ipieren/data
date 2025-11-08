@@ -64,5 +64,19 @@
       "value": 1,
       "type": "ability"
     }
+  ],
+  "display_order": [
+    {
+      "forge": {
+        "left_grid": {
+          "row": 1,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

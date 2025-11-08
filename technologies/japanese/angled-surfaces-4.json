@@ -50,6 +50,20 @@
   "producedBy": [
     "forge"
   ],
+  "display_order": [
+    {
+      "forge": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/technologies/angled-surfaces-4.png",
   "effects": [
     {

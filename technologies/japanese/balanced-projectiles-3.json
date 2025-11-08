@@ -87,5 +87,19 @@
       "value": 1,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "forge": {
+        "left_grid": {
+          "row": 1,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

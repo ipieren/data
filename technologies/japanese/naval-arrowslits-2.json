@@ -50,5 +50,19 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/naval-arrowslits-2.png",
-  "effects": []
+  "effects": [],
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 0,
+          "column": 0
+        },
+        "right_grid": {
+          "row": 3,
+          "column": 1
+        }
+      }
+    }
+  ]
 }

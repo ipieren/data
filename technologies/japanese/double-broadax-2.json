@@ -50,5 +50,31 @@
       "value": 1.15,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "kura-storehouse": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "lumber-camp": {
+        "left_grid": {
+          "row": 1,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

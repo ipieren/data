@@ -71,5 +71,19 @@
       "value": 1.02,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 0,
+          "column": 0
+        },
+        "right_grid": {
+          "row": 3,
+          "column": 4
+        }
+      }
+    }
   ]
 }

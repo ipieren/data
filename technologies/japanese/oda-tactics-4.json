@@ -80,5 +80,19 @@
       "value": 1.15,
       "type": "passive"
     }
+  ],
+  "display_order": [
+    {
+      "university": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ]
 }

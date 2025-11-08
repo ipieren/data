@@ -48,8 +48,19 @@
   "producedBy": [
     "archery-range"
   ],
-  "display_order":[
-    {"archery-range": {"left" : 4, "right" : 0}}
+  "display_order": [
+    {
+      "archery-range": {
+        "left_grid": {
+          "row": 1,
+          "column": 4
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ],
   "icon": "https://data.aoe4world.com/images/units/yumi-bannerman-2.png",
   "hitpoints": 140,

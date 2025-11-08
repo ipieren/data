@@ -44,7 +44,7 @@
     "stable"
   ],
   "display_order":[
-    {"stable": {"left" : 1, "right" : 0}}
+    {"stable": {"left_grid" : {"row" : 1, "column" : 1}, "right_grid" : {"row" : 0, "column" : 0}}}
   ],
   "icon": "https://data.aoe4world.com/images/units/horseman-4.png",
   "hitpoints": 180,

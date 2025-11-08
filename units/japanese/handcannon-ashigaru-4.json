@@ -43,8 +43,31 @@
     "archery-range",
     "tanegashima-gunsmith"
   ],
-  "display_order":[
-    {"archery-range": {"left" : 3, "right" : 0}}
+  "display_order": [
+    {
+      "archery-range": {
+        "left_grid": {
+          "row": 1,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "tanegashima-gunsmith": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
   ],
   "icon": "https://data.aoe4world.com/images/units/handcannon-ashigaru-4.png",
   "hitpoints": 130,

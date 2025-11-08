@@ -49,6 +49,20 @@
   "producedBy": [
     "siege-workshop"
   ],
+  "display_order": [
+    {
+      "siege-workshop": {
+        "left_grid": {
+          "row": 0,
+          "column": 0
+        },
+        "right_grid": {
+          "row": 1,
+          "column": 2
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/technologies/adjustable-crossbars-4.png",
   "effects": [
     {

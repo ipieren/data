@@ -99,5 +99,31 @@
   },
   "movement": {
     "speed": 1.125
-  }
+  },
+  "display_order": [
+    {
+      "capital-town-center": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "town-center": {
+        "left_grid": {
+          "row": 1,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

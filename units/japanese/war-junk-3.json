@@ -115,5 +115,19 @@
   },
   "movement": {
     "speed": 1.375
-  }
+  },
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 2,
+          "column": 2
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ]
 }

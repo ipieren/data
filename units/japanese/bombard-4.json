@@ -41,6 +41,32 @@
     "siege-workshop",
     "tanegashima-gunsmith"
   ],
+  "display_order": [
+    {
+      "siege-workshop": {
+        "left_grid": {
+          "row": 2,
+          "column": 1
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    },
+    {
+      "tanegashima-gunsmith": {
+        "left_grid": {
+          "row": 1,
+          "column": 4
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/bombard-4.png",
   "hitpoints": 210,
   "weapons": [

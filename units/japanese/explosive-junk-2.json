@@ -41,6 +41,20 @@
   "producedBy": [
     "dock"
   ],
+  "display_order": [
+    {
+      "dock": {
+        "left_grid": {
+          "row": 2,
+          "column": 3
+        },
+        "right_grid": {
+          "row": 0,
+          "column": 0
+        }
+      }
+    }
+  ],
   "icon": "https://data.aoe4world.com/images/units/explosive-junk-2.png",
   "hitpoints": 145,
   "weapons": [
